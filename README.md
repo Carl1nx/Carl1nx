@@ -15,7 +15,7 @@
 <!-- ⌨️ TYPING SVG — Edite as linhas com suas frases                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+[SEU+NOME]+%F0%9F%91%8B;Desenvolvedor+Apaixonado+por+Tecnologia+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Carlos José+%F0%9F%91%8B;Desenvolvedor+Apaixonado+por+Tecnologia+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <br/>
 
