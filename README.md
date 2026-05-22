@@ -83,9 +83,9 @@
 
 | 🎓 Curso | 🏫 Plataforma | 📅 Status | 🏆 Certificado |
 |----------|--------------|-----------|----------------|
-| [Linguagem de Programação] | [CEMIC] | 🔄 Em andamento  | 
-| [Web Designer] | [CEMIC] | 🔄 Em andamento  |
-| [Desenvolvedor de Sistemas] | [SENAC] | 📌 Planejado | — |
+| Linguagem de Programação | CEMIC | 🔄 Em andamento  | 
+| Web Designer | CEMIC | 🔄 Em andamento  |
+| Desenvolvedor de Sistemas | SENAC | 📌 Planejado | — |
 
 ---
 
@@ -105,8 +105,8 @@
 
 | Projeto | Descrição | Stack | Link |
 |---------|-----------|-------|------|
-| [Nome do Projeto] | [Descrição curta] | [Tech] | [🔗](https://github.com/[SEU-USERNAME]/[REPO]) |
-| [Nome do Projeto] | [Descrição curta] | [Tech] | [🔗](https://github.com/[SEU-USERNAME]/[REPO]) |
+<!--| [Nome do Projeto] | [Descrição curta] | [Tech] | [🔗](https://github.com/[SEU-USERNAME]/[REPO]) |-->
+<!--| [Nome do Projeto] | [Descrição curta] | [Tech] | [🔗](https://github.com/[SEU-USERNAME]/[REPO]) |-->
 
 ---
 
