@@ -85,6 +85,7 @@
 |----------|--------------|-----------|----------------|
 | Linguagem de Programação | CEMIC | 🔄 Em andamento  | 
 | Web Designer | CEMIC | 🔄 Em andamento  |
+| Analista de Dados e Inteligencia Artificial| UNB | 🔄 Em andamento | — |
 | Desenvolvedor de Sistemas | SENAC | 📌 Planejado | — |
 
 ---
