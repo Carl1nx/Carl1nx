@@ -49,7 +49,6 @@
 
 ---
 
-## 🧠 Sobre Mim
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
@@ -57,7 +56,7 @@
 
 ### ⚡ Fatos Rápidos
 
-- 🎓 Estudando **Ensino Médio e Tecnólogo de Python** na **CEMIC**
+- 🎓 Estudando **Ensino Médio e Tecnólogo de Python** no **CEMIC**
 - 💼 Trabalhando como: **Atualmente estou à procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiência**
 - 🌱 Atualmente aprendendo **Lógica, interfaces gráficas, Front End e Back End**
 - 🤝 Aberto a colaborar em projetos **open-source** e **freelances**
@@ -276,6 +275,3 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ✅ FIM DO README — Feito com ❤️ e muito café ☕                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
