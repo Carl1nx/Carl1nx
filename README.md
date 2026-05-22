@@ -54,23 +54,22 @@
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ```yaml
-nome:         "Carlos José Da Silva Pereira Filho"
-localização:  "[Brasilia-DF]"
-função:       "Desenvolvedor [Fullstack / Frontend / Backend]"
-foco_atual:   "Desenvolver e aprimorar minhas habilidades como programador"
+|nome:         "Carlos José Da Silva Pereira Filho"|
+|localização:  "Brasilia-DF"|
+|função:       "Desenvolvedor Fullstack / Frontend / Backend"|
+|foco_atual:   "Desenvolver e aprimorar minhas habilidades como programador"|
 
-apaixonado_por:
-  - "Desenvolvimento Web Moderno"
-  - "Automação e Scripts"
-  - "IA e Machine Learning"
+|apaixonado_por:|
+|  - "Desenvolvimento Web Moderno"|
+|  - "Automação e Scripts"|
+|  - "IA e Machine Learning"|
 
-estudando:
-  - ""
-  - "[Tecnologia 2]"
-  - "[Tecnologia 3]"
-
-objetivo:     "Criar soluções impactantes através do código"
-disponível:   "Sim — aberto a freelas e oportunidades"
+|estudando:|
+|  - ""|
+|  - "Front End"|
+|  - "Back End"|
+|objetivo:     "Criar soluções impactantes através do código"|
+|disponível:   "Sim — aberto a freelas e oportunidades"|
 ```
 
 <br clear="right"/>
@@ -83,7 +82,7 @@ disponível:   "Sim — aberto a freelas e oportunidades"
 - 🤝 Aberto a colaborar em projetos **open-source** e **freelances**
 - 🎯 Meta para **2026**: Contribuir com mais projetos e crescer como dev
 - 💬 Me pergunte sobre: **Python, HTML, Web Dev, Automação**
-- ⚡ Curiosidade: **Aprendo muito rápido e sou ótimo em me adaptar a diversos ambientes**
+- ⚡ Curiosidade: **Aprendo muito rápido e sou ótimo em me adaptar a diversos ambientes**|
 
 ---
 
