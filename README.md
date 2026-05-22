@@ -53,36 +53,27 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-```yaml
-|nome:         "Carlos José Da Silva Pereira Filho"|
-|localização:  "Brasilia-DF"|
-|função:       "Desenvolvedor Fullstack / Frontend / Backend"|
-|foco_atual:   "Desenvolver e aprimorar minhas habilidades como programador"|
-
-|apaixonado_por:|
-|  - "Desenvolvimento Web Moderno"|
-|  - "Automação e Scripts"|
-|  - "IA e Machine Learning"|
-
-|estudando:|
-|  - ""|
-|  - "Front End"|
-|  - "Back End"|
-|objetivo:     "Criar soluções impactantes através do código"|
-|disponível:   "Sim — aberto a freelas e oportunidades"|
-```
-
 <br clear="right"/>
 
 ### ⚡ Fatos Rápidos
 
-- 🎓 Estudando **Ensino Media e Tecnólogo de Python** na **CEMIC**
-- 💼 Trabalhando como **Atualmente estou a procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiencia** na ****
-- 🌱 Atualmente aprendendo **Logica, interfaces gráficas, **
+- 🎓 Estudando **Ensino Médio e Tecnólogo de Python** na **CEMIC**
+- 💼 Trabalhando como: **Atualmente estou à procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiência**
+- 🌱 Atualmente aprendendo **Lógica, interfaces gráficas, Front End e Back End**
 - 🤝 Aberto a colaborar em projetos **open-source** e **freelances**
 - 🎯 Meta para **2026**: Contribuir com mais projetos e crescer como dev
 - 💬 Me pergunte sobre: **Python, HTML, Web Dev, Automação**
-- ⚡ Curiosidade: **Aprendo muito rápido e sou ótimo em me adaptar a diversos ambientes**|
+- ⚡ Curiosidade: **Aprendo muito rápido e sou ótimo em me adaptar a diversos ambientes**
+
+### 🧬 Sobre mim
+
+- 👤 **Nome:** Carlos José Da Silva Pereira Filho
+- 📍 **Localização:** Brasília - DF
+- 💻 **Função:** Desenvolvedor Fullstack / Frontend / Backend
+- 🎯 **Foco atual:** Desenvolver e aprimorar minhas habilidades como programador
+- ❤️ **Apaixonado por:** Desenvolvimento Web Moderno, Automação e Scripts, IA e Machine Learning
+- 🏁 **Objetivo:** Criar soluções impactantes através do código
+- ✅ **Disponível:** Sim — aberto a freelas e oportunidades
 
 ---
 
