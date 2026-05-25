@@ -98,7 +98,7 @@
 
 ### 🏢 Experiência Profissional
 
-** Atualmente estou a procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiencia
+** Atualmente estou a procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiencia **
 
 ---
 
