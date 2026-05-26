@@ -42,7 +42,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carl1nx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlin.xzz)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[SEU-DISCORD-ID])
 [![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carl1nxcontato@gmail.com)
 
 </div>
@@ -55,7 +54,7 @@
 
 ### ⚡ Fatos Rápidos
 
-- 🎓 Estudando **Ensino Médio e Tecnólogo de Python** no **CEMIC**
+- 🎓 Estudando Ensino médio integrado ao técnico em Informática para Internet  no **CEMIC**
 - 💼 Trabalhando como: **Atualmente estou à procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiência**
 - 🌱 Atualmente aprendendo **Lógica, interfaces gráficas, Front End e Back End**
 - 🤝 Aberto a colaborar em projetos **open-source** e **freelances**
@@ -83,7 +82,7 @@
 
 | 🎓 Curso | 🏫 Plataforma | 📅 Status | 🏆 Certificado |
 |----------|--------------|-----------|----------------|
-| Linguagem de Programação | CEMIC | 🔄 Em andamento  | | — |
+| técnico em Informática para Internet| CEMIC | 🔄 Em andamento  | | — |
 | Web Designer | CEMIC | 🔄 Em andamento  | | — |
 | Analista de Dados e Inteligencia Artificial| UNB | 🔄 Em andamento | — |
 | Desenvolvedor de Sistemas | SENAC | 📌 Planejado | — |
