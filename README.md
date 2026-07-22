@@ -1,276 +1,220 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔧 INSTRUÇÕES: Substitua todos os campos marcados com [SUBSTITUIR] -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+# ✨ Bem-vindo ao meu perfil!
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA500,50:FFD700,75:90EE90,100:00CED1&height=300&section=header&text=Carlos%20José&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</div>
+
+---
+
+## 👋 Olá, sou Carlos José!
+
+Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e resolução de problemas. Estou construindo uma carreira sólida no desenvolvimento de software, focando em código limpo, boas práticas e aprendizado contínuo. Acredito que a programação é uma ferramenta poderosa para criar soluções que impactam pessoas.
+
+---
+
+## 📋 Sobre Mim
+
+- 🎓 **Formação**: Ensino Médio Integrado ao Técnico em Informática no **CEMIC DF**
+- 📚 **Educação Complementar**: 
+  - Curso de **Análise de Dados e Inteligência Artificial** pela **Universidade de Brasília (UnB)**
+  - Estudante de **Espanhol** no **CIL DF**
+- 🌍 **Localização**: Brasil
+- 💬 **Idiomas**: Português (nativo) | Inglês (intermediário) | Espanhol (em desenvolvimento)
+- ❤️ **Paixão**: Desenvolvimento de software, IA, dados e tecnologia
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🖼️ BANNER PRINCIPAL — Substitua pela URL do seu banner personalizado     -->
-<!-- Crie um banner grátis em: https://www.canva.com ou https://capsule-render.vercel.app -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Carlos%20José&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusias)
+### Ferramentas & Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ TYPING SVG — Edite as linhas com suas frases                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+carlos+%F0%9F%91%8B;Desenvolvedor+Apaixonado+por+Tecnologia+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%A7%A0)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 CONTADOR DE VISITAS — Substitua [SEU-USERNAME] pelo seu user do GitHub -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=carl1nx&color=00d4ff&style=flat-square&label=VISITAS+AO+PERFIL)
-![GitHub followers](https://img.shields.io/github/followers/carl1nx?color=7b2fff&style=flat-square&logo=github&label=Seguidores)
-![GitHub User's stars](https://img.shields.io/github/stars/carl1nx?color=00d4ff&style=flat-square&logo=github&label=Stars)
+### Especialidades
+![Artificial Intelligence](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Redes Sociais
+## 💻 Ferramentas de Desenvolvimento
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔗 REDES SOCIAIS — Substitua cada [LINK] pela URL correta               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+| Ferramenta | Status |
+|-----------|--------|
+| **VS Code** | ⭐⭐⭐⭐⭐ |
+| **Git/GitHub** | ⭐⭐⭐⭐⭐ |
+| **Python** | ⭐⭐⭐⭐ |
+| **Java** | ⭐⭐⭐⭐ |
+| **HTML/CSS** | ⭐⭐⭐⭐ |
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carl1nx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlin.xzz)
-[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carl1nxcontato@gmail.com)
+### GitHub Stats
+<!-- Estatísticas atualizadas para Carl1nx -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carl1nx&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+### Linguagens Mais Utilizadas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carl1nx&theme=dracula&hide_border=true&layout=compact)
+
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Carl1nx&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+### Troféus
+![Trophies](https://github-profile-trophy.vercel.app/?username=Carl1nx&theme=dracula&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
 ---
 
-
-
-<br clear="right"/>
-
-### ⚡ Fatos Rápidos
-
-- 🎓 Estudando Ensino médio integrado ao técnico em Informática para Internet  no **CEMIC**
-- 💼 Trabalhando como: **Atualmente estou à procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiência**
-- 🌱 Atualmente aprendendo **Lógica, interfaces gráficas, Front End e Back End**
-- 🤝 Aberto a colaborar em projetos **open-source** e **freelances**
-- 🎯 Meta para **2026**: Contribuir com mais projetos e crescer como dev
-- 💬 Me pergunte sobre: **Python, HTML, Web Dev, Automação**
-- ⚡ Curiosidade: **Aprendo muito rápido e sou ótimo em me adaptar a diversos ambientes**
-
-### 🧬 Sobre mim
-
-- 👤 **Nome:** Carlos José Da Silva Pereira Filho
-- 📍 **Localização:** Brasília - DF
-- 💻 **Função:** Desenvolvedor Fullstack / Frontend / Backend
-- 🎯 **Foco atual:** Desenvolver e aprimorar minhas habilidades como programador
-- ❤️ **Apaixonado por:** Desenvolvimento Web Moderno, Automação e Scripts, IA e Machine Learning
-- 🏁 **Objetivo:** Criar soluções impactantes através do código
-- ✅ **Disponível:** Sim — aberto a freelas e oportunidades
-
----
-
-## 📚 Cursos & Certificações
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📜 CURSOS — Adicione/remova linhas conforme seus cursos reais             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-| 🎓 Curso | 🏫 Plataforma | 📅 Status | 🏆 Certificado |
-|----------|--------------|-----------|----------------|
-| técnico em Informática para Internet| CEMIC | 🔄 Em andamento  | | — |
-| Web Designer | CEMIC | 🔄 Em andamento  | | — |
-| Analista de Dados e Inteligencia Artificial| UNB | 🔄 Em andamento | — |
-| Desenvolvedor de Sistemas | SENAC | 📌 Planejado | — |
-
----
-
-## 💼 Experiências
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💼 EXPERIÊNCIAS — Edite com suas experiências reais                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-### 🏢 Experiência Profissional
-
-** Atualmente estou a procura de um emprego para desenvolver e aprimorar minhas habilidades e buscar experiencia **
-
----
-
-### 🤝 Projetos & Colaborações
-
-| Projeto | Descrição | Stack | Link |
-|---------|-----------|-------|------|
-<!--| [Nome do Projeto] | [Descrição curta] | [Tech] | [🔗](https://github.com/[SEU-USERNAME]/[REPO]) |-->
-<!--| [Nome do Projeto] | [Descrição curta] | [Tech] | [🔗](https://github.com/[SEU-USERNAME]/[REPO]) |-->
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚙️ TECH STACK — Remova ou adicione badges conforme seu conhecimento       -->
-<!-- Mais badges: https://shields.io e https://simpleicons.org                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🎯 Atualmente Estudando
 
 <div align="center">
 
-### 💻 Linguagens
+![Python](https://img.shields.io/badge/Estruturas%20de%20Dados%20em%20Python-3776AB?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Desenvolvimento%20Web-FF6B6B?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AI/ML](https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### 🚀 Frameworks & Bibliotecas
+### Próximas tecnologias no roadmap:
+- 🔄 JavaScript e React
+- 📱 Desenvolvimento Mobile (Kotlin/Swift)
+- 🗄️ Banco de Dados (SQL e NoSQL)
+- ☁️ Cloud Computing (AWS/Google Cloud)
 
-### 🗄️ Banco de Dados
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🚀 Objetivos para 2026
 
-### 🔧 Ferramentas & DevOps
+- ✅ Consolidar conhecimentos em desenvolvimento web full-stack
+- ✅ Contribuir ativamente em projetos open-source
+- ✅ Construir portfólio com **5+ projetos relevantes**
+- ✅ Especializar-me em **Inteligência Artificial e Machine Learning**
+- ✅ Melhorar fluência em inglês técnico
+- ✅ Participar de hackathons e competições de programação
+- ✅ Começar minha carreira profissional como desenvolvedor
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
+
+## 🎨 Projetos em Destaque
+
+<!-- Atualize com seus repositórios reais -->
+
+<div align="center">
+
+### [Projeto 1: Sistema de Análise de Dados](https://github.com/Carl1nx/seu-projeto-1)
+*Python | Pandas | Análise de Dados*
+
+Análise completa de conjuntos de dados com visualizações interativas e insights relevantes.
+
+---
+
+### [Projeto 2: Aplicação Web Responsiva](https://github.com/Carl1nx/seu-projeto-2)
+*HTML5 | CSS3 | JavaScript*
+
+Interface moderna e responsiva com foco em UX/UI e boas práticas de desenvolvimento.
+
+---
+
+### [Projeto 3: Algoritmos de IA](https://github.com/Carl1nx/seu-projeto-3)
+*Python | Machine Learning | TensorFlow*
+
+Implementação de modelos de machine learning com aplicações práticas.
+
+---
+
+**[→ Ver todos os projetos](https://github.com/Carl1nx?tab=repositories)**
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 STATS — Substitua [SEU-USERNAME] pelo seu username do GitHub           -->
-<!-- Tema padrão: "tokyonight" — veja outros em: https://github.com/anuraghazra/github-readme-stats -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 📫 Contato & Redes Sociais
 
 <div align="center">
 
-<a href="https://github.com/carl1nx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carl1nx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl1nx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-</a>
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carl1nx&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2fff&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
-
-<br/>
-
-<!-- Trofeus -->
-<img src="https://github-profile-trophy.vercel.app/?username=carl1nx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosaugustinho662@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carl1nx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-telefone)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💡 Filosofia
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📦 PROJETOS — Substitua [SEU-USERNAME] e [REPO-NAME] pelos seus repos     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+> **"A tecnologia é melhor quando une pessoas. A melhor forma de prever o futuro é inventá-lo."**
 
-<div align="center">
-
-<a href="https://github.com/carl1nx/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carl1nx&repo=[REPO-1]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff" />
-</a>
-<a href="https://github.com/carl1nx/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carl1nx&repo=[REPO-2]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/[SEU-USERNAME]/[REPO-3]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU-USERNAME]&repo=[REPO-3]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff" />
-</a>
-<a href="https://github.com/[SEU-USERNAME]/[REPO-4]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU-USERNAME]&repo=[REPO-4]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff" />
-</a>
-
-</div>
-
-<br/>
-
-### 🗂️ Detalhes dos Projetos
+Acredito que como desenvolvedor, tenho a responsabilidade de criar soluções que sejam não apenas funcionais, mas também acessíveis, eficientes e humanas. Estou em constante evolução, aprendendo novas habilidades todos os dias.
 
 ---
 
-## 🎯 Objetivos Atuais
+## 🔄 Contribuições
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║           🎯  ROADMAP  2025                          ║
-╠══════════════════════════════════════════════════════╣
-║  ✅  Dominar Python para automação e dados           ║
-║  ✅  Construir projetos fullstack com React + Node   ║
-║  🔄  Aprender Docker e conceitos de DevOps           ║
-║  🔄  Contribuir com projetos open-source             ║
-║  📌  Aprender cloud AWS / Google Cloud               ║
-║  📌  Estudar Machine Learning e IA                   ║
-║  📌  Conseguir primeira oportunidade CLT na área     ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### 📖 Estudando Agora
-
-- 🐳 **Python** — Logica e Conceitos
-- ☁️ **Cloud Computing** — AWS / GCP fundamentos
-- 🤖 **Inteligência Artificial** — LLMs, Prompt Engineering
-- 🔐 **Segurança Web** — OWASP Top 10, boas práticas
+Sempre aberto a:
+- 💬 **Colaborações** em projetos interessantes
+- 🤝 **Networking** com outros desenvolvedores
+- 📖 **Compartilhar conhecimento** e aprender com a comunidade
+- 🐛 **Pull requests** e sugestões de melhorias
 
 ---
 
-## 🐍 Atividade de Contribuições
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE ANIMATION — Siga o guia abaixo para configurar no seu repo:     -->
-<!-- https://github.com/Platane/snk                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carl1nx/carl1nx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carl1nx/carl1nx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carl1nx/carl1nx/output/github-contribution-grid-snake.svg">
-</picture>
+### ⭐ Se você gostou, considere deixar uma estrela nos meus repositórios!
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Carl1nx.Carl1nx)
+
+**Última atualização**: 2026 | Desenvolvido com ❤️ por Carlos José
 
 </div>
 
 ---
 
+## 📝 Notas para Customização
 
-<div align="center">
+<!-- 
+INSTRUÇÕES DE CUSTOMIZAÇÃO:
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📬 CALL TO ACTION FINAL                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+1. **Usuário GitHub**: ✅ Carl1nx (já atualizado)
+   - GitHub Stats
+   - Top Languages
+   - GitHub Streak
+   - Trophies
 
-### 💬 Vamos Conversar?
+2. **Links de Contato**: ✅ Email já atualizado!
+   - Email: ✅ carlosaugustinho662@gmail.com
+   - LinkedIn: linkedin.com/in/seu-perfil (ainda necessário)
+   - WhatsApp: +55 (61) 99217-0293 (ainda necessário)
+   - Portfolio: seu-portfolio.com (ainda necessário)
 
-**Estou sempre aberto a novas conexões, projetos e oportunidades!**
+3. **Projetos**: Adicione seus repositórios reais com descrições
 
-[![LinkedIn](https://img.shields.io/badge/Me%20adicione%20no%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Email](https://img.shields.io/badge/Me%20manda%20um%20email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carl1nxcontato@gmail.com)
+4. **Cor do tema**: Os badges usam tema 'dracula'. Opções:
+   - dracula | dark | radical | synthwave | tokyonight | github_dark
 
-<br/>
+5. **Banner**: A URL da imagem pode ser customizada em:
+   capsule-render.vercel.app (veja documentação)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:0d1117&height=120&section=footer)
+6. **Emojis**: Use conforme sua preferência pessoal
 
-</div>
-
+7. **Badges adicionais**: Consulte shields.io para mais opções
+-->
