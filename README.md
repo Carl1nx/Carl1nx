@@ -112,34 +112,22 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 
 ---
 
-## 🎨 Projetos em Destaque
-
-<!-- Atualize com seus repositórios reais -->
+## 🎨 Projetos em Desenvolvimento
 
 <div align="center">
 
-### [Projeto 1: Sistema de Análise de Dados](https://github.com/Carl1nx/seu-projeto-1)
-*Python | Pandas | Análise de Dados*
+### 🔥 [Carometro](https://github.com/Carl1nx/Carometro)
 
-Análise completa de conjuntos de dados com visualizações interativas e insights relevantes.
+**Um projeto inovador em construção**
 
----
+Desenvolvido com paixão, dedicação e aprendizado contínuo. Este projeto reflete meu comprometimento com a qualidade de código e boas práticas de desenvolvimento.
 
-### [Projeto 2: Aplicação Web Responsiva](https://github.com/Carl1nx/seu-projeto-2)
-*HTML5 | CSS3 | JavaScript*
-
-Interface moderna e responsiva com foco em UX/UI e boas práticas de desenvolvimento.
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Carl1nx/Carometro?style=for-the-badge)
 
 ---
 
-### [Projeto 3: Algoritmos de IA](https://github.com/Carl1nx/seu-projeto-3)
-*Python | Machine Learning | TensorFlow*
-
-Implementação de modelos de machine learning com aplicações práticas.
-
----
-
-**[→ Ver todos os projetos](https://github.com/Carl1nx?tab=repositories)**
+**[→ Acompanhe o progresso](https://github.com/Carl1nx/Carometro)**
 
 </div>
 
@@ -203,7 +191,7 @@ INSTRUÇÕES DE CUSTOMIZAÇÃO:
 2. **Links de Contato**: ✅ Email já atualizado!
    - Email: ✅ carlosaugustinho662@gmail.com
    - LinkedIn: linkedin.com/in/seu-perfil (ainda necessário)
-   - WhatsApp: +55 (61) 99217-0293 (ainda necessário)
+   - WhatsApp: +55 (XX) XXXXX-XXXX (ainda necessário)
    - Portfolio: seu-portfolio.com (ainda necessário)
 
 3. **Projetos**: Adicione seus repositórios reais com descrições
