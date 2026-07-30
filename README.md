@@ -17,7 +17,6 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 - 🎓 **Formação**: Ensino Médio Integrado ao Técnico em Informática no **CEMIC DF**
 - 📚 **Educação Complementar**: 
   - Curso de **Análise de Dados e Inteligência Artificial** pela **Universidade de Brasília (UnB)**
-  - Estudante de **Espanhol** no **CIL DF**
 - 🌍 **Localização**: Brasil
 - 💬 **Idiomas**: Português (nativo) | Inglês (intermediário) | Espanhol (em desenvolvimento)
 - ❤️ **Paixão**: Desenvolvimento de software, IA, dados e tecnologia
@@ -140,12 +139,13 @@ Desenvolvido com paixão, dedicação e aprendizado contínuo. Este projeto refl
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosaugustinho662@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carl1nx)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-telefone)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/61992170293)
+<!-- 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
-
+ -->
 </div>
 
----
+
 
 ## 💡 Filosofia
 
@@ -205,4 +205,5 @@ INSTRUÇÕES DE CUSTOMIZAÇÃO:
 6. **Emojis**: Use conforme sua preferência pessoal
 
 7. **Badges adicionais**: Consulte shields.io para mais opções
+
 -->
