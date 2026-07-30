@@ -177,7 +177,7 @@ Sempre aberto a:
 
 ---
 
-## 📝 Notas para Customização
+
 
 <!-- 
 INSTRUÇÕES DE CUSTOMIZAÇÃO:
