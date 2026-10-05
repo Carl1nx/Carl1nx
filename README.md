@@ -18,8 +18,8 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 - 📚 **Educação Complementar**: 
   - Curso de **Análise de Dados e Inteligência Artificial** pela **Universidade de Brasília (UnB)**
 - 🌍 **Localização**: Brasil
-- 💬 **Idiomas**: Português (nativo) | Inglês (intermediário) | Espanhol (em desenvolvimento)
-- ❤️ **Paixão**: Desenvolvimento de software, IA, dados e tecnologia
+- 💬 **Idiomas**: Português (nativo) | Inglês (intermediário) | 
+- ❤️ **Paixão**: Desenvolvimento de software, dados e tecnologia
 
 ---
 
@@ -29,7 +29,6 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -54,7 +53,6 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 | **VS Code** | ⭐⭐⭐⭐⭐ |
 | **Git/GitHub** | ⭐⭐⭐⭐⭐ |
 | **Python** | ⭐⭐⭐⭐ |
-| **Java** | ⭐⭐⭐⭐ |
 | **HTML/CSS** | ⭐⭐⭐⭐ |
 
 ---
@@ -86,28 +84,15 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 
 ![Python](https://img.shields.io/badge/Estruturas%20de%20Dados%20em%20Python-3776AB?style=for-the-badge)
 ![Web Development](https://img.shields.io/badge/Desenvolvimento%20Web-FF6B6B?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge)
 
 </div>
 
 ### Próximas tecnologias no roadmap:
 - 🔄 JavaScript e React
-- 📱 Desenvolvimento Mobile (Kotlin/Swift)
 - 🗄️ Banco de Dados (SQL e NoSQL)
 - ☁️ Cloud Computing (AWS/Google Cloud)
 
----
-
-## 🚀 Objetivos para 2026
-
-- ✅ Consolidar conhecimentos em desenvolvimento web full-stack
-- ✅ Contribuir ativamente em projetos open-source
-- ✅ Construir portfólio com **5+ projetos relevantes**
-- ✅ Especializar-me em **Inteligência Artificial e Machine Learning**
-- ✅ Melhorar fluência em inglês técnico
-- ✅ Participar de hackathons e competições de programação
-- ✅ Começar minha carreira profissional como desenvolvedor
 
 ---
 
@@ -115,18 +100,10 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 
 <div align="center">
 
-### 🔥 [Carometro](https://github.com/Carl1nx/Carometro)
-
-**Um projeto inovador em construção**
-
-Desenvolvido com paixão, dedicação e aprendizado contínuo. Este projeto reflete meu comprometimento com a qualidade de código e boas práticas de desenvolvimento.
-
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Carl1nx/Carometro?style=for-the-badge)
 
 ---
 
-**[→ Acompanhe o progresso](https://github.com/Carl1nx/Carometro)**
+
 
 </div>
 
@@ -147,11 +124,6 @@ Desenvolvido com paixão, dedicação e aprendizado contínuo. Este projeto refl
 
 
 
-## 💡 Filosofia
-
-> **"A tecnologia é melhor quando une pessoas. A melhor forma de prever o futuro é inventá-lo."**
-
-Acredito que como desenvolvedor, tenho a responsabilidade de criar soluções que sejam não apenas funcionais, mas também acessíveis, eficientes e humanas. Estou em constante evolução, aprendendo novas habilidades todos os dias.
 
 ---
 
@@ -178,32 +150,3 @@ Sempre aberto a:
 ---
 
 
-
-<!-- 
-INSTRUÇÕES DE CUSTOMIZAÇÃO:
-
-1. **Usuário GitHub**: ✅ Carl1nx (já atualizado)
-   - GitHub Stats
-   - Top Languages
-   - GitHub Streak
-   - Trophies
-
-2. **Links de Contato**: ✅ Email já atualizado!
-   - Email: ✅ carlosaugustinho662@gmail.com
-   - LinkedIn: linkedin.com/in/seu-perfil (ainda necessário)
-   - WhatsApp: +55 (XX) XXXXX-XXXX (ainda necessário)
-   - Portfolio: seu-portfolio.com (ainda necessário)
-
-3. **Projetos**: Adicione seus repositórios reais com descrições
-
-4. **Cor do tema**: Os badges usam tema 'dracula'. Opções:
-   - dracula | dark | radical | synthwave | tokyonight | github_dark
-
-5. **Banner**: A URL da imagem pode ser customizada em:
-   capsule-render.vercel.app (veja documentação)
-
-6. **Emojis**: Use conforme sua preferência pessoal
-
-7. **Badges adicionais**: Consulte shields.io para mais opções
-
--->
