@@ -1,7 +1,7 @@
 # ✨ Bem-vindo ao meu perfil!
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA500,50:FFD700,75:90EE90,100:00CED1&height=300&section=header&text=Carlos%20José&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA500,50:FFD700,75:90EE90,100:00CED1&height=300§ion=header&text=Carlos%20José&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
 ---
@@ -18,7 +18,7 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 - 📚 **Educação Complementar**: 
   - Curso de **Análise de Dados e Inteligência Artificial** pela **Universidade de Brasília (UnB)**
 - 🌍 **Localização**: Brasil
-- 💬 **Idiomas**: Português (nativo) | Inglês (intermediário) | 
+- 💬 **Idiomas**: Português (nativo) | Inglês (intermediário)
 - ❤️ **Paixão**: Desenvolvimento de software, dados e tecnologia
 
 ---
@@ -29,6 +29,7 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -41,6 +42,7 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 ### Especialidades
 ![Artificial Intelligence](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+![API](https://img.shields.io/badge/API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
@@ -54,6 +56,7 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 | **Git/GitHub** | ⭐⭐⭐⭐⭐ |
 | **Python** | ⭐⭐⭐⭐ |
 | **HTML/CSS** | ⭐⭐⭐⭐ |
+| **PHP** | ⭐⭐⭐ |
 
 ---
 
@@ -98,14 +101,8 @@ Sou um **desenvolvedor em formação** apaixonado por tecnologia, inovação e r
 
 ## 🎨 Projetos em Desenvolvimento
 
-<div align="center">
-
-
----
-
-
-
-</div>
+- 🏫 **Carômetro Escolar** — projeto real para uma escola, com API real em **PHP**, banco de dados **MySQL** e interface em **React**
+- 🔌 **CRUD com API própria** — API REST em **Python (Flask)** integrada a banco de dados
 
 ---
 
@@ -148,5 +145,3 @@ Sempre aberto a:
 </div>
 
 ---
-
-
